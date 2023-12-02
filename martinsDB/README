@@ -1,0 +1,37 @@
+# financial accounts database
+`maintain a certain users financial account e.g`
+\------------/\----------------------------|
+ \ ---------/--\---------------------------|                                      
+  \--------/----\--------------------------|                --/\----------------------------|
+ \ ---------/--\---------------------------|                                      
+  \--------/----\--------------------------|                                      
+   \------/------\-------------------------|
+    \ ---/--------\------------------------|
+    |   /--/-----\-\----------------------
+     | /  /       \-\
+     |/  /         \-\--/\----------------------------|
+ \ ---------/--\---------------------------|                                      
+  \--------/----\--------------------------|                                      
+   \------/------\-------------------------|
+    \ ---/--------\------------------------|
+    |   /--/-----\-\----------------------
+     | /  /       \-\
+     |/  /         \-\                                
+   \------/------\-------------------------|
+    \ ---/--------\------------------------|
+    |   /--/-----\-\----------------------    
+     | /  /       \-\
+     |/  /         \-\
+
+`functions it will contain `
+`creat account`
+`withdraw`
+`send money to aceratin account`
+`at some point we will integrate a a bank api`
+`allow account creation,login and signout`
+
+# a maintenance database to contain refactoring
+# insights
+`database to contain user signup date`
+`database to contain user withdrawals ,user transfer,debit,user query`
+`database 1 will contain username , userage, userdob,usergender`
